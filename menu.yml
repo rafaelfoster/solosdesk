@@ -1,0 +1,37 @@
+Dashboard        : {icon: "md md-home", url: "dashboard.php" }
+
+Tickets          : {icon: "fa fa-check-square" }
+    Novo Ticket  : test.php
+    Consultar    : consult_ticket.php
+    
+Inventario                : {icon: "fa fa-puzzle-piece fa-fw" }
+    Cadastrar Equipamento : test.php
+    Consultar             : test.php
+    
+Tarefas                 : {icon: "fa fa-external-link", url: "about_tasks.php" }
+    Projetos            : projects.php
+    Tarefas             :  project.tasks.php
+
+Relatórios              : {icon: "fa fa-file-text-o", url: "dashboard.php" }
+    Tickets             : test.php
+    SLA                 : test.php
+    Inventário          : test.php
+    Sistema             : test.php
+    Todos os Relatórios : test.php
+    
+Admin                : {icon: "fa fa-gear", url: "dashboard.php" }
+    Usuários         : test.php
+    Grupos           : test.php
+    Centros de Custo : test.php
+    
+    Configurações:
+        Geral       : test.php
+        Email       : test.php
+        Templates   : test.php
+        Integrações : test.php
+        
+    Gestão:
+        Geral2       : test.php
+        Email2       : test.php
+        Templates2   : test.php
+        Integrações2 : test.php
